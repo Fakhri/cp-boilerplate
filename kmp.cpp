@@ -4,6 +4,7 @@
   
 void computeLPSArray(char* pat, int M, int* lps); 
   
+// This is the core algorithm
 // Prints occurrences of txt[] in pat[] 
 void KMPSearch(char* pat, char* txt) 
 { 
