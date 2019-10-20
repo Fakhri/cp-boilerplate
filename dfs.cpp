@@ -53,6 +53,7 @@ void Graph::DFSUtil(int v, bool visited[])
             DFSUtil(*i, visited); 
 } 
   
+// This is the core algorithm
 // DFS traversal of the vertices reachable from v. 
 // It uses recursive DFSUtil() 
 void Graph::DFS(int v) 
