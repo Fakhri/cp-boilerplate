@@ -1,0 +1,1 @@
+This is my boilerplate as a preparation for regular GL Bandung CP Meet up
